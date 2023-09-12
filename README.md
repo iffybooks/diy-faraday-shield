@@ -6,7 +6,7 @@
 
 From time to time you may want to disconnect from the network to protect your privacy. Here are a few reasons that come to mind:
 
-- Your ex/spouse/stalker is tracking your location or recording audio
+- Your ex/spouse/stalker is tracking your location or recording audio.
 - You’re going somewhere (maternity store, gay bar, protest march, etc.) and you don’t want your location history in a database that can be queried by advertisers & cops. 
 - You're seeking reproductive healthcare or gender-affirming care in an unfriendly environment, or helping someone else who may be at risk.
 
@@ -22,7 +22,7 @@ This Faraday shield design is one-time-use because we aren’t confident a reusa
 
 Also, carrying a pre-made Faraday shield in your bag may make people think you’re up to no good. Whereas foil, paper, and tape on their own shouldn’t raise any eyebrows.
 
-If you're interested in why it's difficult to make a good Faraday shield, we recommend the article "Testing Phone-Sized Faraday Bags" by Matt Blaze. Thanks to Nelson for recommending it!
+If you're interested in why it's difficult to make a good Faraday shield, we recommend the article "Testing Phone-Sized Faraday Bags" by Matt Blaze. Thanks to Nelson for sharing it!
 https://www.mattblaze.org/blog/faraday
 
 <div style="page-break-after: always;"></div>
